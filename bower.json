@@ -1,0 +1,25 @@
+{
+  "name": "babel-browser-polyfill-bower",
+  "homepage": "https://github.com/Cameron-C-Chapman/babel-browser-polyfill-bower",
+  "authors": [
+    "Cameron Chapman <cameron.c.chapman@gmail.com>"
+  ],
+  "description": "A bower package containing the babel browser polyfill.",
+  "main": "babel-polyfill.js",
+  "keywords": [
+    "bower",
+    "babel",
+    "polyfill",
+    "babel-polyfill",
+    "browser",
+    "browser-polyfill"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
